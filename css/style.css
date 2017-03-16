@@ -6,6 +6,21 @@ body {
 	color: #FFFFFF;
 	text-align: center;
 	background-color: #000000;
+    font-family: Verdana, sans;
+}
+
+#text-box {
+    width:90%;
+    float:right;
+}
+
+#icons {
+    float: left;
+    width: 10%;
+}
+
+.over {
+    color:black;
 }
 
 .typed-cursor{
