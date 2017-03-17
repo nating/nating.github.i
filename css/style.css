@@ -7,6 +7,8 @@ body {
 	text-align: center;
 	background-color: #000000;
     font-family: Verdana, sans;
+    width:100%;
+    height: 100%;
 }
 
 #text-box {
