@@ -11,6 +11,21 @@ body {
     height: 100%;
 }
 
+a {
+    text-decoration:underline;
+    color:#FFFFFF;
+}
+
+.project {
+    float:left;
+    width:calc(100%/4);
+    padding:calc(100%/40);
+}
+
+.project a{
+    text-decoration: none;
+}
+
 #text-box {
     width:90%;
     float:right;
